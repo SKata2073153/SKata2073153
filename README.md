@@ -5,7 +5,7 @@
   <br>
   <br>
   <i>
-    Undergraduate Student (B3)<br><br>
+    Undergraduate Student (B4)<br><br>
     Department of Systems Innovation Engineering,<br>
     Faculty of Science and Engineering,<br>
     Iwate University<br>
