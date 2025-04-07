@@ -5,11 +5,9 @@
   <br>
   <br>
   <i>
-    Undergraduate Student (B4)<br><br>
-    Department of Systems Innovation Engineering,<br>
-    Faculty of Science and Engineering,<br>
-    Iwate University<br>
-    <sub>Studies in Computer, Intelligence and Media Technology<sub>
+    Graduate Student (M1)<br><br>
+    Graduate School of Information Sciences,<br>
+    Tohoku University<br>
     <br>
   </i><br>
 </p>
