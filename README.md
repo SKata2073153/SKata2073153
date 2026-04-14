@@ -5,7 +5,7 @@
   <br>
   <br>
   <i>
-    Graduate Student (M1)<br><br>
+    Graduate Student (M2)<br><br>
     Graduate School of Information Sciences,<br>
     Tohoku University<br>
     <br>
